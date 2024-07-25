@@ -12,9 +12,6 @@ Reading and following these guidelines will help us make the contribution proces
     * [Pull Requests](#pull-requests)
 * [Getting Help](#getting-help)
 
-## Code of Conduct
-
-We take our open source community seriously and hold ourselves and other contributors to high standards of communication. By participating and contributing to this project, you agree to uphold our [Code of Conduct](https://github.com/idurar/starter-antd-admin-crud-auth-mern/blob/master/CODE_OF_CONDUCT.md).
 
 ## Getting Started
 
@@ -29,7 +26,7 @@ Contributions are made to this repo via Issues and Pull Requests (PRs). A few ge
 
 Issues should be used to report problems with the library, request a new feature, or to discuss potential changes before a PR is created. When you create a new Issue, a template will be loaded that will guide you through collecting and providing the information we need to investigate.
 
-If you find an Issue that addresses the problem you're having, please add your own reproduction information to the existing issue rather than creating a new one. Adding a [reaction](https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/) can also help be indicating to our maintainers that a particular problem is affecting more than just the reporter.
+If you find an Issue that addresses the problem you're having, please add your own reproduction information to the existing issue rather than creating a new one. 
 
 ### Pull Requests
 
@@ -43,7 +40,7 @@ PRs to our libraries are always welcome and can be a quick way to get your fix o
 
 For changes that address core functionality or would require breaking changes (e.g. a major release), it's best to open an Issue to discuss your proposal first. This is not required but can save time creating and reviewing changes.
 
-In general, we follow the ["fork-and-pull" Git workflow](https://github.com/susam/gitpr)
+In general, we follow:
 
 1. Fork the repository to your own Github account
 2. Clone the project to your machine
@@ -52,7 +49,3 @@ In general, we follow the ["fork-and-pull" Git workflow](https://github.com/susa
 5. Following any formatting and testing guidelines specific to this repo
 6. Push changes to your fork
 7. Open a PR in our repository and follow the PR template so that we can efficiently review the changes.
-
-## Getting Help
-
-Join us in the [IDURAR Community](https://dev.to/lalami) and post your question there in the correct category with a descriptive tag.
